@@ -3,7 +3,6 @@
 #Data analysis of World Happiness Data
 
 #Libreries
-     Sklearn.liner_model
      Seaborn
      matplotlib.pyplot
 
